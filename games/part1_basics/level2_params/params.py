@@ -1,6 +1,6 @@
 from games._lib.gamelib import *
 
-create_game()
+create_game(1)
 
 
 run()
